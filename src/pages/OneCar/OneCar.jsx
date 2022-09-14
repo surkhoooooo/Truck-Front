@@ -28,7 +28,7 @@ const OneCar = () => {
             <div className={styles.container}>
                 <div className={styles.cargo_container}>
                         <img src="https://cdn-icons-png.flaticon.com/128/28/28326.png" alt="" className={styles.cargo_img}/>
-                        <p>Грузоподъемность в киллограмах: {num} </p>
+                        <p>Грузоподъемность в киллограмах {num} </p>
                        
                 </div>
 
